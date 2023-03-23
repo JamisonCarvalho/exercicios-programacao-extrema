@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;Aluno.java&apos; to &apos;Exemplo016 - Modificadores de acesso/src/discentes&apos;&#x0D;&#x0A;- Original project: &apos;Exemplo016 - Modificadores de acesso&apos;&#x0D;&#x0A;- Destination element: &apos;Exemplo016 - Modificadores de acesso/src/discentes&apos;&#x0D;&#x0A;- Original element: &apos;Aluno.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="/src&lt;discentes" element1="/src&lt;{Aluno.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1677329821635" units="1" version="1.0"/>
+</session>

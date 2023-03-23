@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;linguagensProgramacao&apos; in &apos;Principal.main(...)&apos; to &apos;listaNomes&apos;&#x0D;&#x0A;- Original project: &apos;Exemplo019 - LinkedHashMap&apos;&#x0D;&#x0A;- Original element: &apos;Principal.main(String[]).linguagensProgramacao&apos;&#x0D;&#x0A;- Renamed element: &apos;linguagensProgramacao&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;linguagensProgramacao&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;{Principal.java[Principal~main~\[QString;@linguagensProgramacao!164!240!195!215!QLinkedHashMap\&lt;QString;QString;&gt;;!0!false" name="listaNomes" references="true" stamp="1677872576111" version="1.0"/>
+</session>

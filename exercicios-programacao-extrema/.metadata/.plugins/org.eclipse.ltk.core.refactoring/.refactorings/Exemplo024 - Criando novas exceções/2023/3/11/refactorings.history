@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;valor&apos; in &apos;Principal.main(...)&apos; to &apos;opcao&apos;&#x0D;&#x0A;- Original project: &apos;Exemplo024 - Criando novas exceções&apos;&#x0D;&#x0A;- Original element: &apos;Principal.main(String[]).valor&apos;&#x0D;&#x0A;- Renamed element: &apos;valor&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;valor&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;{Principal.java[Principal~main~\[QString;@valor!226!235!230!234!I!0!false" name="opcao" references="true" stamp="1678724568603" version="1.0"/>
+</session>
